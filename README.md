@@ -9,3 +9,17 @@
 よろしくお願いします。\
 \
 作品集のデモはこちらにご覧ください：[リンク](https://drive.google.com/drive/folders/1LeAIcISoxniMs2iFidXeVnlCzAyumaFT?usp=sharing)
+\
+## プロジェクトのソースコード
+* [Hangman_Game]
+  * ”python semantics & syntax”の概念を中心に、入力するデータを分析しながら、答えになれるかどうかを判断し、それらの対応ができるような「Hangman_Game」のルールをpythonの環境で構築します。 
+* [Self_photoshop]
+  * ”Image processing”という、画像加工の概念をアルゴリズム化しながら、自分の写真の背景を別の写真と変更されるようになります。
+* [Photoshop_prototype]
+  * ”Image processing”の概念からさらに「写真の一部を消す」ことを実現するようなアルゴリズムになります。ポイントは同じ角度でいくつかの写真を撮れば、大量なピクセルを多重比較しながらその場所の背景を復元できるというところです。
+* [Breakout_game]
+  * ”Object-oriented programming（OOP）”、いわゆる「オブジェクト指向プログラミング」の概念からアニメーションやゲームデザインを創り出します。ここは「ブロック崩し」のゲームを開発し、さらに自分が気になるルールをOOPアルゴリズム化します。
+* [Boggle_game]
+  *  
+* [Name_searching_system]
+  * 
